@@ -6,4 +6,6 @@ La estructura de las pruebas en Karate, utilizando archivos de características 
 
 Karate también proporciona capacidades avanzadas, como la generación de informes detallados y la ejecución de pruebas en paralelo, lo que lo hace adecuado para proyectos de cualquier tamaño y complejidad.
 
-En resumen, el proyecto de automatización utilizando Java y Selenium para agregar artículos al carrito y finalizar la compra logró una mayor eficiencia y confiabilidad en el proceso de prueba, lo que contribuyó a una mayor calidad del software entregado. La aplicación de las lecciones aprendidas en futuros proyectos de automatización mejorará aún más la eficacia y el éxito de las pruebas automatizadas.
+En resumen, el proyecto de automatización utilizando Java y Selenium para agregar artículos al carrito y finalizar la compra logró una mayor eficiencia y confiabilidad en el proceso de prueba, lo que contribuyó a una mayor calidad del software entregado. 
+
+La aplicación de las lecciones aprendidas en futuros proyectos de automatización mejorará aún más la eficacia y el éxito de las pruebas automatizadas.
